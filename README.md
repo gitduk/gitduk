@@ -8,6 +8,9 @@ I'm currently learning Rust.
 <summary>⚡️ More about my coding life</summary>
 <br />
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitduk&layout=compact&hide=css,html)
 
 ![gitduk's github stats](https://github-readme-stats.vercel.app/api?username=gitduk&count_private=true&show_icons=true&theme=onedark)
