@@ -2,7 +2,7 @@
 
 There is a land where I share toys and have a break.
 
-I'm currently learning building tools and AST.
+I'm currently learning Rust.
 
 <details>
 <summary>⚡️ More about my coding life</summary>
