@@ -9,13 +9,13 @@ I'm currently learning Rust.
 <br />
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-87-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-89-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 108.0 kB Used in GitHub's Storage 
- > 
-> 🏆 25 Contributions in the Year 2024
+> 📦 108.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -23,6 +23,45 @@ I'm currently learning Rust.
  > 
 > 🔑 10 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+🌆 Daytime                10 commits          ███████░░░░░░░░░░░░░░░░░░   26.32 % 
+🌃 Evening                10 commits          ███████░░░░░░░░░░░░░░░░░░   26.32 % 
+🌙 Night                  16 commits          ███████████░░░░░░░░░░░░░░   42.11 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   8 commits           █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
+Tuesday                  7 commits           █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
+Wednesday                1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+Thursday                 5 commits           ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+Friday                   8 commits           █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
+Saturday                 4 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Sunday                   5 commits           ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -36,7 +75,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 22/04/2024 18:36:01 UTC
+ Last Updated on 23/04/2024 18:35:50 UTC
 <!--END_SECTION:waka-->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitduk&layout=compact&hide=css,html)
