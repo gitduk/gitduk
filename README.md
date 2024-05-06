@@ -11,7 +11,7 @@ I'm currently learning Rust.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-89-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
@@ -75,7 +75,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 05/05/2024 18:36:58 UTC
+ Last Updated on 06/05/2024 18:36:45 UTC
 <!--END_SECTION:waka-->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitduk&layout=compact&hide=css,html)
