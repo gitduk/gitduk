@@ -11,11 +11,13 @@ I'm currently learning Rust.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 108.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 28 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -75,7 +77,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 06/05/2024 18:36:45 UTC
+ Last Updated on 07/05/2024 18:37:53 UTC
 <!--END_SECTION:waka-->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitduk&layout=compact&hide=css,html)
