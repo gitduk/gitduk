@@ -15,7 +15,7 @@ I'm currently learning Rust.
 
 **🐱 My GitHub Data** 
 
-> 📦 108.3 kB Used in GitHub's Storage 
+> 📦 107.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -75,7 +75,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 10/06/2024 18:35:12 UTC
+ Last Updated on 11/06/2024 18:35:44 UTC
 <!--END_SECTION:waka-->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitduk&layout=compact&hide=css,html)
