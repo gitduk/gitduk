@@ -9,20 +9,59 @@ I'm currently learning Rust.
 <br />
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 131.4 kB Used in GitHub's Storage 
  > 
-> 🏆 90 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 16 Public Repositories 
+> 📜 18 Public Repositories 
  > 
 > 🔑 12 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                27 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
+🌆 Daytime                66 commits          ██████████░░░░░░░░░░░░░░░   41.25 % 
+🌃 Evening                37 commits          ██████░░░░░░░░░░░░░░░░░░░   23.12 % 
+🌙 Night                  30 commits          █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
+Tuesday                  31 commits          █████░░░░░░░░░░░░░░░░░░░░   19.38 % 
+Wednesday                16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Thursday                 21 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
+Friday                   35 commits          █████░░░░░░░░░░░░░░░░░░░░   21.88 % 
+Saturday                 28 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
+Sunday                   16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -36,7 +75,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/10/2024 18:48:40 UTC
+ Last Updated on 23/10/2024 18:48:47 UTC
 <!--END_SECTION:waka-->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitduk&layout=compact&hide=css,html)
