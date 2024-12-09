@@ -17,6 +17,8 @@ I'm currently learning Rust.
 
 > 📦 151.9 kB Used in GitHub's Storage 
  > 
+> 🏆 109 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 18 Public Repositories 
@@ -75,7 +77,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/12/2024 18:49:53 UTC
+ Last Updated on 09/12/2024 18:51:28 UTC
 <!--END_SECTION:waka-->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitduk&layout=compact&hide=css,html)
