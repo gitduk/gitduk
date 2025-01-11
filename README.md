@@ -15,7 +15,9 @@ I'm currently learning Rust.
 
 **🐱 My GitHub Data** 
 
-> 📦 167.5 kB Used in GitHub's Storage 
+> 📦 168.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 6 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -75,7 +77,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/01/2025 18:47:42 UTC
+ Last Updated on 11/01/2025 18:46:42 UTC
 <!--END_SECTION:waka-->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitduk&layout=compact&hide=css,html)
