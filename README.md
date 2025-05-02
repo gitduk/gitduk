@@ -9,13 +9,11 @@ I'm currently learning Rust.
 <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 264.1 kB Used in GitHub's Storage 
+> 📦 263.5 kB Used in GitHub's Storage 
  > 
 > 🏆 71 Contributions in the Year 2025
  > 
@@ -25,45 +23,6 @@ I'm currently learning Rust.
  > 
 > 🔑 12 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                68 commits          ██████░░░░░░░░░░░░░░░░░░░   22.15 % 
-🌆 Daytime                134 commits         ███████████░░░░░░░░░░░░░░   43.65 % 
-🌃 Evening                75 commits          ██████░░░░░░░░░░░░░░░░░░░   24.43 % 
-🌙 Night                  30 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   33 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
-Tuesday                  67 commits          █████░░░░░░░░░░░░░░░░░░░░   21.82 % 
-Wednesday                36 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
-Thursday                 38 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
-Friday                   74 commits          ██████░░░░░░░░░░░░░░░░░░░   24.10 % 
-Saturday                 33 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
-Sunday                   26 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -77,7 +36,7 @@ C#                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/05/2025 18:56:49 UTC
+ Last Updated on 02/05/2025 18:55:20 UTC
 <!--END_SECTION:waka-->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitduk&layout=compact&hide=css,html)
