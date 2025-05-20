@@ -15,7 +15,9 @@ I'm currently learning Rust.
 
 **🐱 My GitHub Data** 
 
-> 📦 276.7 kB Used in GitHub's Storage 
+> 📦 277.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 102 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -75,7 +77,7 @@ C#                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/05/2025 18:57:11 UTC
+ Last Updated on 20/05/2025 18:57:57 UTC
 <!--END_SECTION:waka-->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitduk&layout=compact&hide=css,html)
