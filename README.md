@@ -9,13 +9,15 @@ I'm currently learning Rust.
 <br />
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 278.5 kB Used in GitHub's Storage 
+> 📦 293.7 kB Used in GitHub's Storage 
  > 
-> 🏆 102 Contributions in the Year 2025
+> 🏆 105 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -23,6 +25,45 @@ I'm currently learning Rust.
  > 
 > 🔑 12 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                84 commits          ██████░░░░░░░░░░░░░░░░░░░   24.28 % 
+🌆 Daytime                145 commits         ██████████░░░░░░░░░░░░░░░   41.91 % 
+🌃 Evening                85 commits          ██████░░░░░░░░░░░░░░░░░░░   24.57 % 
+🌙 Night                  32 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   42 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
+Tuesday                  72 commits          █████░░░░░░░░░░░░░░░░░░░░   20.81 % 
+Wednesday                39 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
+Thursday                 47 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
+Friday                   82 commits          ██████░░░░░░░░░░░░░░░░░░░   23.70 % 
+Saturday                 37 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
+Sunday                   27 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -36,7 +77,7 @@ C#                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/05/2025 18:58:21 UTC
+ Last Updated on 22/05/2025 18:58:57 UTC
 <!--END_SECTION:waka-->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitduk&layout=compact&hide=css,html)
