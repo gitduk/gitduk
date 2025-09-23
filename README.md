@@ -9,13 +9,11 @@ I'm currently learning Rust.
 <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 367.9 kB Used in GitHub's Storage 
+> 📦 369.2 kB Used in GitHub's Storage 
  > 
 > 🏆 201 Contributions in the Year 2025
  > 
@@ -25,45 +23,6 @@ I'm currently learning Rust.
  > 
 > 🔑 14 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                111 commits         █████░░░░░░░░░░░░░░░░░░░░   20.71 % 
-🌆 Daytime                231 commits         ███████████░░░░░░░░░░░░░░   43.10 % 
-🌃 Evening                148 commits         ███████░░░░░░░░░░░░░░░░░░   27.61 % 
-🌙 Night                  46 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   71 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
-Tuesday                  105 commits         █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
-Wednesday                77 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
-Thursday                 83 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
-Friday                   117 commits         █████░░░░░░░░░░░░░░░░░░░░   21.83 % 
-Saturday                 48 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
-Sunday                   35 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -77,7 +36,7 @@ C#                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/09/2025 18:57:05 UTC
+ Last Updated on 23/09/2025 18:56:51 UTC
 <!--END_SECTION:waka-->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitduk&layout=compact&hide=css,html)
