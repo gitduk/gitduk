@@ -9,6 +9,8 @@ I'm currently learning Rust.
 <br />
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -23,6 +25,45 @@ I'm currently learning Rust.
  > 
 > 🔑 16 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                120 commits         █████░░░░░░░░░░░░░░░░░░░░   21.35 % 
+🌆 Daytime                236 commits         ██████████░░░░░░░░░░░░░░░   41.99 % 
+🌃 Evening                160 commits         ███████░░░░░░░░░░░░░░░░░░   28.47 % 
+🌙 Night                  46 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   72 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
+Tuesday                  108 commits         █████░░░░░░░░░░░░░░░░░░░░   19.22 % 
+Wednesday                84 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
+Thursday                 91 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
+Friday                   122 commits         █████░░░░░░░░░░░░░░░░░░░░   21.71 % 
+Saturday                 49 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
+Sunday                   36 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -36,7 +77,7 @@ Just                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/11/2025 18:56:40 UTC
+ Last Updated on 04/11/2025 19:00:00 UTC
 <!--END_SECTION:waka-->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitduk&layout=compact&hide=css,html)
