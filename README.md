@@ -67,17 +67,17 @@ No Activity Tracked This Week
 **I Mostly Code in Rust** 
 
 ```text
-Rust                     6 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-JavaScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-Shell                    3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Just                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
-C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+Rust                     6 repos             █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
+JavaScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+Shell                    3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+Just                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 ```
 
 
 
 
- Last Updated on 23/01/2026 19:06:11 UTC
+ Last Updated on 24/01/2026 19:04:00 UTC
 <!--END_SECTION:waka-->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitduk&layout=compact&hide=css,html)
