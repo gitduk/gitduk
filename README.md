@@ -17,7 +17,7 @@ I'm currently learning Rust.
 
 > 📦 435.4 kB Used in GitHub's Storage 
  > 
-> 🏆 253 Contributions in the Year 2026
+> 🏆 254 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -67,17 +67,17 @@ No Activity Tracked This Week
 **I Mostly Code in Rust** 
 
 ```text
-Rust                     12 repos            ████████░░░░░░░░░░░░░░░░░   30.00 % 
-Python                   7 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
-JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Lua                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
-Just                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+Rust                     12 repos            ███████░░░░░░░░░░░░░░░░░░   29.27 % 
+Python                   8 repos             █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
+JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
+Lua                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+Just                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
 ```
 
 
 
 
- Last Updated on 29/03/2026 19:12:14 UTC
+ Last Updated on 30/03/2026 19:16:40 UTC
 <!--END_SECTION:waka-->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitduk&layout=compact&hide=css,html)
