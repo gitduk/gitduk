@@ -11,7 +11,7 @@ I'm currently learning Rust.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -67,17 +67,17 @@ No Activity Tracked This Week
 **I Mostly Code in Rust** 
 
 ```text
-Rust                     13 repos            ████████░░░░░░░░░░░░░░░░░   31.71 % 
-Python                   8 repos             █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
-JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
-Lua                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
-Just                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+Rust                     13 repos            ████████░░░░░░░░░░░░░░░░░   30.95 % 
+Python                   8 repos             █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
+JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+Lua                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+Just                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
 ```
 
 
 
 
- Last Updated on 05/05/2026 19:35:08 UTC
+ Last Updated on 06/05/2026 19:41:39 UTC
 <!--END_SECTION:waka-->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitduk&layout=compact&hide=css,html)
