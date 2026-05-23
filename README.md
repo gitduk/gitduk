@@ -13,7 +13,7 @@ I'm currently learning Rust.
 
 **🐱 My GitHub Data** 
 
-> 📦 437.4 kB Used in GitHub's Storage 
+> 📦 437.1 kB Used in GitHub's Storage 
  > 
 > 🏆 374 Contributions in the Year 2026
  > 
@@ -23,59 +23,20 @@ I'm currently learning Rust.
  > 
 > 🔑 19 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                246 commits         █████░░░░░░░░░░░░░░░░░░░░   21.56 % 
-🌆 Daytime                454 commits         ██████████░░░░░░░░░░░░░░░   39.79 % 
-🌃 Evening                336 commits         ███████░░░░░░░░░░░░░░░░░░   29.45 % 
-🌙 Night                  105 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   125 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
-Tuesday                  163 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Wednesday                208 commits         █████░░░░░░░░░░░░░░░░░░░░   18.23 % 
-Thursday                 167 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
-Friday                   220 commits         █████░░░░░░░░░░░░░░░░░░░░   19.28 % 
-Saturday                 130 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
-Sunday                   128 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Rust** 
 
 ```text
-Rust                     13 repos            ████████░░░░░░░░░░░░░░░░░   30.95 % 
-Python                   8 repos             █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
-JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-Lua                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
-Just                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+Rust                     13 repos            ████████░░░░░░░░░░░░░░░░░   31.71 % 
+Python                   8 repos             █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
+JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
+Lua                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+Just                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
 ```
 
 
 
 
- Last Updated on 22/05/2026 19:39:47 UTC
+ Last Updated on 23/05/2026 19:22:40 UTC
 <!--END_SECTION:waka-->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitduk&layout=compact&hide=css,html)
