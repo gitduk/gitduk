@@ -23,26 +23,26 @@ I'm currently learning Rust.
  > 
 > 📜 23 Public Repositories 
  > 
-> 🔑 21 Private Repositories 
+> 🔑 22 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                234 commits         █████░░░░░░░░░░░░░░░░░░░░   21.49 % 
-🌆 Daytime                433 commits         ██████████░░░░░░░░░░░░░░░   39.76 % 
-🌃 Evening                317 commits         ███████░░░░░░░░░░░░░░░░░░   29.11 % 
-🌙 Night                  105 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
+🌞 Morning                234 commits         █████░░░░░░░░░░░░░░░░░░░░   21.47 % 
+🌆 Daytime                433 commits         ██████████░░░░░░░░░░░░░░░   39.72 % 
+🌃 Evening                318 commits         ███████░░░░░░░░░░░░░░░░░░   29.17 % 
+🌙 Night                  105 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   139 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
-Tuesday                  157 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
-Wednesday                180 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
-Thursday                 180 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
-Friday                   234 commits         █████░░░░░░░░░░░░░░░░░░░░   21.49 % 
-Saturday                 107 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
-Sunday                   92 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
+Monday                   139 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
+Tuesday                  158 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
+Wednesday                180 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
+Thursday                 180 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
+Friday                   234 commits         █████░░░░░░░░░░░░░░░░░░░░   21.47 % 
+Saturday                 107 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
+Sunday                   92 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
 ```
 
 
@@ -67,17 +67,17 @@ No Activity Tracked This Week
 **I Mostly Code in Rust** 
 
 ```text
-Rust                     14 repos            █████████░░░░░░░░░░░░░░░░   34.15 % 
-Python                   9 repos             █████░░░░░░░░░░░░░░░░░░░░   21.95 % 
-JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
-Lua                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
-Just                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+Rust                     14 repos            ████████░░░░░░░░░░░░░░░░░   33.33 % 
+Python                   9 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
+JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+Lua                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
 ```
 
 
 
 
- Last Updated on 20/07/2026 20:09:15 UTC
+ Last Updated on 21/07/2026 20:03:26 UTC
 <!--END_SECTION:waka-->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitduk&layout=compact&hide=css,html)
