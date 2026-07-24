@@ -13,9 +13,9 @@ I'm currently learning Rust.
 
 **🐱 My GitHub Data** 
 
-> 📦 447.3 kB Used in GitHub's Storage 
+> 📦 447.4 kB Used in GitHub's Storage 
  > 
-> 🏆 397 Contributions in the Year 2026
+> 🏆 398 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -23,45 +23,6 @@ I'm currently learning Rust.
  > 
 > 🔑 22 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                236 commits         █████░░░░░░░░░░░░░░░░░░░░   21.45 % 
-🌆 Daytime                440 commits         ██████████░░░░░░░░░░░░░░░   40.00 % 
-🌃 Evening                319 commits         ███████░░░░░░░░░░░░░░░░░░   29.00 % 
-🌙 Night                  105 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   139 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
-Tuesday                  158 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
-Wednesday                186 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
-Thursday                 184 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.73 % 
-Friday                   234 commits         █████░░░░░░░░░░░░░░░░░░░░   21.27 % 
-Saturday                 107 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
-Sunday                   92 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Rust** 
 
 ```text
@@ -75,7 +36,7 @@ Lua                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/07/2026 19:58:18 UTC
+ Last Updated on 24/07/2026 19:58:24 UTC
 <!--END_SECTION:waka-->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitduk&layout=compact&hide=css,html)
