@@ -9,13 +9,11 @@ I'm currently learning Rust.
 <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 447.5 kB Used in GitHub's Storage 
+> 📦 447.7 kB Used in GitHub's Storage 
  > 
 > 🏆 398 Contributions in the Year 2026
  > 
@@ -28,21 +26,21 @@ I'm currently learning Rust.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                242 commits         █████░░░░░░░░░░░░░░░░░░░░   21.61 % 
-🌆 Daytime                447 commits         ██████████░░░░░░░░░░░░░░░   39.91 % 
-🌃 Evening                324 commits         ███████░░░░░░░░░░░░░░░░░░   28.93 % 
-🌙 Night                  107 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
+🌞 Morning                245 commits         █████░░░░░░░░░░░░░░░░░░░░   21.72 % 
+🌆 Daytime                452 commits         ██████████░░░░░░░░░░░░░░░   40.07 % 
+🌃 Evening                324 commits         ███████░░░░░░░░░░░░░░░░░░   28.72 % 
+🌙 Night                  107 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   144 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
-Tuesday                  158 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
-Wednesday                186 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
-Thursday                 184 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
-Friday                   239 commits         █████░░░░░░░░░░░░░░░░░░░░   21.34 % 
-Saturday                 111 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
-Sunday                   98 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
+Monday                   144 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+Tuesday                  166 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
+Wednesday                186 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
+Thursday                 184 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
+Friday                   239 commits         █████░░░░░░░░░░░░░░░░░░░░   21.19 % 
+Saturday                 111 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
+Sunday                   98 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
 ```
 
 
@@ -73,17 +71,17 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in Rust** 
 
 ```text
-Rust                     14 repos            ████████░░░░░░░░░░░░░░░░░   33.33 % 
-Python                   9 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
-JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-Lua                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+Rust                     14 repos            █████████░░░░░░░░░░░░░░░░   34.15 % 
+Python                   9 repos             █████░░░░░░░░░░░░░░░░░░░░   21.95 % 
+JavaScript               5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
+Lua                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+Just                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
 ```
 
 
 
 
- Last Updated on 27/07/2026 20:07:01 UTC
+ Last Updated on 28/07/2026 20:03:38 UTC
 <!--END_SECTION:waka-->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitduk&layout=compact&hide=css,html)
